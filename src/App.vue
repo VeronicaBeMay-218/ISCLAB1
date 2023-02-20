@@ -1,47 +1,26 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+//import HelloWorld from './components/HelloWorld.vue'
+import boton from './components/boton.vue'
+import lista from './components/lista.vue'
+
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-    </div>
-  </header>
+  <div class="container mx-auto py-5">
+    <h1 class="text-3xl font-titular mb-5">Guia de mi proyecto</h1>
+    <p>Comprueba el estatus</p>
+  <boton>agregar</boton>
+  <boton>editar</boton>
+  <boton>eliminar</boton>
+  <boton class="bg-secundario">info</boton>
 
   <main>
-    <TheWelcome />
+    <lista></lista>
   </main>
+
+  <footer>
+  
+  </footer>
+  
+  </div>
 </template>
-
-<style scoped>
-header {
-  line-height: 1.5;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
-}
-</style>
