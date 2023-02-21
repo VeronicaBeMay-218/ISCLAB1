@@ -9,7 +9,7 @@
         <p class="text-gray-700 font-bold text-3xl mb-2">{{ parrafo3 }}</p>
         </div>
         
-            <p class="text-gray-900 font-bold text-6xl mb-2"> ¿Pueden crear un sitio web gratuito para mi proyecto?? </p>
+            <p class="text-gray-900 font-bold text-6xl mb-2"> ¿Pueden crear un sitio web gratuito para mi proyecto? </p>
         
 
     </div>
