@@ -2,25 +2,46 @@
 //import HelloWorld from './components/HelloWorld.vue'
 import boton from './components/boton.vue'
 import lista from './components/lista.vue'
+import Encabezado from './components/Encabezado.vue'
+import Card from './components/Card.vue'
+import CardE from './components/CardE.vue'
+import Titulo from './components/Titulo.vue'
+import Parrafo from './components/Parrafo.vue'
+import CardDoble from './components/CardDoble.vue'
+import headerE from './components/headerE.vue'
+import FooterE from './components/FooterE.vue'
+
+
 
 </script>
 
 <template>
-  <div class="container mx-auto py-5">
-    <h1 class="text-3xl font-titular mb-5">Guia de mi proyecto</h1>
-    <p>Comprueba el estatus</p>
-  <boton>agregar</boton>
-  <boton>editar</boton>
-  <boton>eliminar</boton>
-  <boton class="bg-secundario">info</boton>
+
+  <header>
+  <headerE></headerE>
+    <Encabezado></Encabezado>
+    
+  </header>
+
+
+
 
   <main>
-    <lista></lista>
+    
+    <Card></Card>
+    <CardE></CardE>
+    <Titulo></Titulo>
+    <Parrafo></Parrafo>
+    <CardDoble></CardDoble>
+
+    
+    
   </main>
 
   <footer>
+  <FooterE></FooterE>
+
   
   </footer>
-  
-  </div>
+
 </template>

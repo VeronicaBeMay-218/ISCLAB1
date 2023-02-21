@@ -1,32 +1,211 @@
 {
-    "fase":{
-        "nombre":"target audience: individuals",
-        "preguntas":[
-            {
-                "id":1,
-                "preg":"whats the age1...?",
-                "hecho":false
-            },
-            {
-                "id":2,
-                "preg":"whats the age2...?",
-                "hecho":false
-            },
-            {
-                "id":3,
-                "preg":"whats the age3...?",
-                "hecho":false
-            },
-            {
-                "id":4,
-                "preg":"whats the age4...?",
-                "hecho":false
-            },
-            {
-                "id":5,
-                "preg":"whats the age5...?",
-                "hecho":false
-            }
-        ]
-    }
+    "etapas":[
+
+
+        {
+            "id":1,
+            "nombre":"investigación",
+            "pasos":[
+
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                }
+
+
+            ]
+        },
+
+        {
+            "id":2,
+            "nombre":"investigación",
+            "pasos":[
+
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                }
+
+
+            ]
+        },
+
+        {
+            "id":3,
+            "nombre":"investigación",
+            "pasos":[
+
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                }
+
+
+            ]
+        },
+
+        {
+            "id":4,
+            "nombre":"investigación",
+            "pasos":[
+
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                }
+
+
+            ]
+        },
+
+        {
+            "id":5,
+            "nombre":"investigación",
+            "pasos":[
+
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                }
+
+
+            ]
+        },
+        {
+            "id":6,
+            "nombre":"investigación",
+            "pasos":[
+
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                },
+                {
+                    "id":1,
+                    "titulo":"whats the age1...?",
+                    "producto":"whats the age1...?",
+                    "hecho":false
+                }
+
+
+            ]
+        }
+
+        
+    ]
+
 }
