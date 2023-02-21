@@ -2,6 +2,7 @@
 import data from './../assets/datos.json'
 import Elementoli from '../components/Elementoli.vue'
 
+
 export default{
     data(){
         return{
